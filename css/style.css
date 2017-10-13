@@ -71,3 +71,7 @@ footer
 {
 	padding-top: 0px;
 }
+.parallax
+{
+    position: static;
+}
